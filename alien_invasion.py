@@ -6,7 +6,7 @@ from ship import Ship
 
 
 class AlienInvasion:
-    """Overall class to manage game asssets and behavior"""
+    """Overall class to manage game asssets and behavior."""
 
     def __init__(self):
         """Initalize the game, and create game resources."""
